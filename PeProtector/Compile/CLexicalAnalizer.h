@@ -1,6 +1,6 @@
 #ifndef CLEXICAL_ANALIZER_H
 #define CLEXICAL_ANALIZER_H
-
+#include "main.h"
 #include <vector>
 #include <windows.h>
 

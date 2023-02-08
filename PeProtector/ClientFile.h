@@ -1,8 +1,7 @@
-#ifndef PE_FILE_H
-#define PE_FILE_H
-
+#pragma once
+#include "main.h"
 #include "wtypes.h"
-#include "vector"
+#include <vector>
 
 namespace NPeProtector
 {
@@ -49,4 +48,3 @@ namespace NPeProtector
    SClientFile getPeFileInfo(const char * filename);
 }
 
-#endif

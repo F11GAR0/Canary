@@ -1,13 +1,11 @@
-﻿  CommandTest.cpp
-  CompileTest.cpp
-  LexicalAnalizerTest.cpp
-  ResourcesTest.cpp
-  ProtectPeTest.cpp
-  PeHeaderTest.cpp
-  MutationTest.cpp
+﻿  DataTest.cpp
   InstructionTest.cpp
-  ImportTest.cpp
-  DataTest.cpp
-  ClientFileTest.cpp
-  Generating Code...
-LINK : fatal error LNK1181: cannot open input file 'C:\Users\rmt01\Dropbox\WindowsBox\Kodning\Fusk\Protectors\PeProtector\PeProtector\Debug\Instruction.obj'
+  MutationTest.cpp
+  PeHeaderTest.cpp
+  ProtectPeTest.cpp
+  ResourcesTest.cpp
+C:\Users\Qwerty\Desktop\Кодинг\Canary\PeProtector\ProtectPe.h(14,60): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Qwerty\Desktop\Кодинг\Canary\PeProtector\ProtectPe.h(14,60): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\Users\Qwerty\Desktop\Кодинг\Canary\PeProtector\PeHeader.h(26,100): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Qwerty\Desktop\Кодинг\Canary\PeProtector\PeHeader.h(26,100): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  Создание кода...

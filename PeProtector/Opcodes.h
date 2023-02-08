@@ -1,8 +1,9 @@
+
 #ifndef INSTRUCTIONS_H
 #define INSTRUCTIONS_H
-
+#include "main.h"
 #include <windows.h>
-#include "../Library/Types.h"
+#include "Library/Types.h"
 
 namespace NPeProtector
 {

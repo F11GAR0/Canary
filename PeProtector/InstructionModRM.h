@@ -1,7 +1,8 @@
+
 #ifndef INSTRUCTION_MOD_RM_H
 #define INSTRUCTION_MOD_RM_H
-
-#include "../Library/SCommand.h"
+#include "main.h"
+#include "Library/SCommand.h"
 #include "iosfwd"
 
 namespace NPeProtector

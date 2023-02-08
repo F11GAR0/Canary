@@ -1,7 +1,8 @@
-Debug
-Release
-bin
-phantasm-x86-virtualizer
-Polychaos
-SimpleObfuscation
-XOR_Crypter
+Debug/
+Release/
+bin/
+phantasm-x86-virtualizer/
+Polychaos/
+SimpleObfuscation/
+XOR_Crypter/
+v16/

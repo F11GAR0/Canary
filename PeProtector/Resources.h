@@ -1,4 +1,5 @@
-#include "../Library/SCommand.h"
+#include "main.h"
+#include "Library/SCommand.h"
 #include "iosfwd"
 #include "ClientFile.h"
 

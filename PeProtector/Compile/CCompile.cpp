@@ -1,3 +1,4 @@
+#include "main.h"
 #include "CCompile.h"
 #include "CLexicalAnalizer.h"
 #include <iosfwd>

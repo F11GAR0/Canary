@@ -1,8 +1,9 @@
+
 #ifndef PE_HEADER_H
 #define PE_HEADER_H
-
+#include "main.h"
 #include "iosfwd"
-#include "../Library/SCommand.h"
+#include "Library/SCommand.h"
 #include "ClientFile.h"
 
 namespace NPeProtector

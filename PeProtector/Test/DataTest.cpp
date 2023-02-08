@@ -1,6 +1,6 @@
 #include "CppUnitTest.h"
 #include "../Library/SCommand.h"
-#include "../PeProtector/Data.h"
+#include "../Data.h"
 #include "iostream"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;

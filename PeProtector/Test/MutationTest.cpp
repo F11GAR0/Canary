@@ -1,6 +1,6 @@
 #include "CppUnitTest.h"
 #include "../Library/SCommand.h"
-#include "../PeProtector/Mutation.h"
+#include "../Mutation.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 using namespace NPeProtector;

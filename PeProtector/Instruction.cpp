@@ -1,3 +1,4 @@
+#include "main.h"
 #include "Instruction.h"
 #include <ostream>
 #include "Opcodes.h"

@@ -1,7 +1,8 @@
+#include "main.h"
 #include "CLexicalAnalizer.h"
 #include "ctype.h"
 #include <string>
-#include "..\library\Types.h"
+#include "../Library/Types.h"
 #include <assert.h>
 #include <iostream>
 

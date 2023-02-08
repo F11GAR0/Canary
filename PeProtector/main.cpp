@@ -1,17 +1,6 @@
-#include "../Library/SCommand.h"
-#include "ostream"
+#include "main.h"
 
-#include <fstream>
-#include "xiosbase"
-#include "ProtectPe.h"
-#include "../LogLibrary/CLog.h"
-#include "ClientFile.h"
-#include "PeHeader.h"
 
-using std::ofstream;
-using std::ios_base;
-using std::exception;
-using std::string;
 
 /**
  * @brief PeProtector.exe fileName

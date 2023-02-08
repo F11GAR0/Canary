@@ -1,6 +1,6 @@
 #ifndef CCOMPILE_H
 #define CCOMPILE_H
-
+#include "main.h"
 #include "..\Library\SCommand.h"
 #include <istream>
 #include <iosfwd>

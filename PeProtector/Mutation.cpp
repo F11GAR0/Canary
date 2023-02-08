@@ -1,3 +1,4 @@
+#include "main.h"
 #include "Mutation.h"
 #include "assert.h"
 #include <ctime>

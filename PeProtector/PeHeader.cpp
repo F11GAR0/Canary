@@ -1,9 +1,10 @@
+#include "main.h"
 #include "PeHeader.h"
 #include <sstream>
 #include <vector>
-#include "../Library/SCommand.h"
+#include "Library/SCommand.h"
 #include "assert.h"
-#include "../Library/Types.h"
+#include "Library/Types.h"
 #include "string.h"
 
 using std::ostream;

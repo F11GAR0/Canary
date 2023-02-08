@@ -1,5 +1,6 @@
+#include "main.h"
 #include "InstructionModRM.h"
-#include "../Library/SCommand.h"
+#include "Library/SCommand.h"
 #include "exception"
 #include "assert.h"
 #include "PeHeader.h"

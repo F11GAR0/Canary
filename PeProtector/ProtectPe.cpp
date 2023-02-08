@@ -1,7 +1,8 @@
+#include "main.h"
 #include "ProtectPe.h"
 #include <ostream>
 #include <vector>
-#include "../Library/SCommand.h"
+#include "Library/SCommand.h"
 #include "Instruction.h"
 #include "Data.h"
 #include "Resources.h"
@@ -14,7 +15,7 @@
 #include <sstream>      // std::stringbuf
 #include <string>       // std::string
 #include "PeHeader.h"
-#include "../LogLibrary/CLog.h"
+#include "LogLibrary/CLog.h"
 #include "assert.h"
 #include "ClientFile.h"
 #include "Mutation.h"

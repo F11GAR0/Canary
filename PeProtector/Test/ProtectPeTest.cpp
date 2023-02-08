@@ -1,5 +1,5 @@
 #include "CppUnitTest.h"
-#include "../PeProtector/PeHeader.h"
+#include "../PeHeader.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 using namespace NPeProtector;

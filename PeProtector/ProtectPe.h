@@ -1,7 +1,7 @@
 #ifndef PROTECT_PE_H
 #define PROTECT_PE_H
-
-#include "iosfwd"
+#include "main.h"
+#include <iosfwd>
 #include "ClientFile.h"
 
 namespace NPeProtector

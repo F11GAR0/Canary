@@ -1,7 +1,9 @@
+#include "main.h"
 #include "ClientFile.h"
 #include "imagehlp.h"
 #include "assert.h"
 #include "..\aplib\aplib.h"
+#pragma comment(lib, "../aplib/aplib.lib")
 #include "crtdbg.h"
 
 using std::exception;

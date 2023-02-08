@@ -1,6 +1,6 @@
 #include "CppUnitTest.h"
-#include "../PeProtector/ClientFile.h"
-#include "../PeProtector/Resources.h"
+#include "../ClientFile.h"
+#include "../Resources.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 using namespace NPeProtector;

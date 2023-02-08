@@ -1,29 +1,4 @@
-#include "CLexicalAnalizer.h"
-#include "CCompile.h"
-#include <string>
-#include <fstream>
-#include <streambuf>
-#include <iosfwd>
-#include "..\library\SCommand.h"
-#include <iostream>
-#include <ostream>
-#include <algorithm>
-#include <xfunctional>
-#include "../LogLibrary/CLog.h"
-#include "../Library/Types.h"
-#include <sstream> 
-
-using std::exception;
-using std::cout;
-using std::ifstream;
-using std::ofstream;
-using std::vector;
-using std::basic_ostream;
-using std::basic_istream;
-using std::char_traits;
-using std::string;
-using std::ios_base;
-using std::ostringstream;
+#include "main.h"
 
 /**
  * @brief Compile.exe file.asm file.bin
